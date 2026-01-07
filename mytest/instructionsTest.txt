@@ -1,0 +1,16 @@
+https://naveenautomationlabs.com/opencart/index.php?route=account/login
+
+pwtest@opencart.com
+playwright@123
+
+Open Browser (chrome/chromium/firefox/webkit)
+Open Page
+Enter URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+Create three locators: username, password, loginbutton
+Enter username
+Enter password
+Click on Login button
+Get the home page title
+Verify the title
+take screenshot
+Close Browser
